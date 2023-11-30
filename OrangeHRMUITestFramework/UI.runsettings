@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+
+  <!-- Test run parameters for configuring the test environment -->
+  <TestRunParameters>
+    <!-- Base URL for the test run -->
+    <Parameter name="baseURL" value="https://adeyba-trials711.orangehrmlive.com" />
+
+    <!-- Browser to be used for the test run -->
+    <Parameter name="browser" value="chrome"/>
+
+    <!-- Directory for storing screenshots during the test run -->
+    <Parameter name="ScreenShotDirectory" value="location to store your screen shot" />
+
+    <Parameter name="username" value="Admin"/>
+
+    <Parameter name="password" value="QQj@j3V7aU"/>
+  </TestRunParameters>
+
+</RunSettings>
